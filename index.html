@@ -1,5 +1,20 @@
-<!doctype html><meta charset="utf-8"><title>SB'Music — dépôt Linux</title>
-<h1>SB'Music — dépôt de paquets Linux</h1>
-<p>Installation en une commande :</p>
-<pre>curl -fsSL https://sb-music.github.io/packages/install.sh | sh</pre>
-<p>Le dépôt (apt / dnf / pacman) et le script sont publiés automatiquement par la CI.</p>
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>SB'Music — dépôt Linux</title>
+  <style>
+    body{max-width:760px;margin:4rem auto;padding:0 1.25rem;font:17px/1.55 system-ui,sans-serif;color:#ececf1;background:#111218}
+    h1{color:#fff}code{display:block;padding:1rem;overflow:auto;border-radius:.5rem;background:#20212b;color:#c8ffdc}
+    a{color:#91b4ff}
+  </style>
+</head>
+<body>
+  <h1>SB'Music pour Linux</h1>
+  <p>Le script détecte automatiquement Debian/Ubuntu, Fedora ou Arch/Manjaro, ajoute le dépôt signé correspondant, puis installe SB'Music et ses dépendances.</p>
+  <code>curl -fsSL https://sb-music.github.io/packages/install.sh | sh</code>
+  <p>Architecture disponible : x86_64. Les mises à jour suivantes seront proposées par apt, dnf ou pacman.</p>
+  <p><a href="https://github.com/SB-Music/SB-Music-desktop">Code source</a></p>
+</body>
+</html>

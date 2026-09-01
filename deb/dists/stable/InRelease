@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 01 Sep 2026 14:06:57 +0000
+Description: Dépôt officiel SB'Music
+Label: SB'Music
+Origin: SB'Music
+Suite: stable
+MD5Sum:
+ 8fe423f43466c211ff3ca983b082f9fb              179 Release
+ 89d4069d40dc5f65f8264c3af9ea4089              900 main/binary-amd64/Packages
+ 5755b71aade9ecbc6013f452abf691a9              599 main/binary-amd64/Packages.gz
+SHA1:
+ 1f7c588e5b4d50f88f6ed9dabb899d670b4f1599              179 Release
+ 2d7d88a4584ca8d7c4dd0fa8ad3f68ae1b7669a8              900 main/binary-amd64/Packages
+ 7f1f4f9780bd377b4082a74169be9585fed042eb              599 main/binary-amd64/Packages.gz
+SHA256:
+ a02cae4b1a3b1afd993fbef5ca3af782545722753cfe70fc33b9090cd2836916              179 Release
+ d75a3134bf91e44cc1cf7b4878021d9d1bc85d29ec350ee3a719584bc76e23f4              900 main/binary-amd64/Packages
+ 3f419600c5f58a4a719778e71f7fd9e4118f00a4b605da94deeac4c6a6707da4              599 main/binary-amd64/Packages.gz
+SHA512:
+ ef207765289c465294c39e1a71ebb17b2c714cf0b4c7d158d94b6fb73acb969d8c8479013d5db186286e465fbb80712dac7a5ebba3e76ef314d562b35a73b1c4              179 Release
+ 21490dc1497d958bb1d14297eb5cb609905daaa2cdbde5a6501f89fc6976d2c293a28109c165df5d17240c53c179014e04390831ab161f3b559403181f68a869              900 main/binary-amd64/Packages
+ af59b25da59e5a48d558abd75beca09555fbbcd70d793e514bb7985a21171e1e404b370196600e68eba4174ecc1a6013f50ea46ec62aca620aa407b2c07c385e              599 main/binary-amd64/Packages.gz
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE5EraBS3gjBmV058VoDYD0ER0TQ8FAmqW3AEACgkQoDYD0ER0
+TQ9GpxAAkFE8zIp7t148cbh3tyo/3G+/waeOb2r7JHlnetH/cUwr+K1wNek91D4S
+vjOT/55/uLq1FY3LE7X+fg9I/w1VsKhvVc6h5sgIBMcbuYbGDLVKIgKhZjFaudxi
+u5Yjkb3C3uaMtY93+WmC/OvxFEGSaLI4GP4+DQ7N1XMlXXpX8560+Lo3yCD9T9lp
+5PShT8iKXgARV6+RKAl4wiJNuvQucFO7vCProBbVXZX2LmDl1PA8kuBKDTD97hnV
+vBkf3SNU2yzOdHkbud/afO4uziTc/zDDRWoZSndApX57Y5OqcFqRs75wupQY3gza
+4NtCRkA4D4FbjdOuRjp7GApita7EQMWMMCKC2klW/cw+hrs/ph+6jsqJfTYBABlR
+QEMMzvVqnop4S0NQYd3bD/kzf4P/81qEOha6qtr1EcovGI77krTu7BPr6qYMOXpb
+d4BNrziyY/BdIzT6G9y6CCKDPxIR3RhzuPzIkchSXmk4dXI2WnIwq+a5x/LL+QYR
+6eeYEa5lZM+JOsUV58JuKntIVNPex923rrTeU9X4Ay4zYmxavF9vM8YWbQsIy4HE
++j9hl+keZeAJkF9ONNLIPt2r4AmAepzDBbkCbpnhaeVtvJmBHjYIrNZm/gYznHOq
+NWtgw5cebR6tv4iUnp87umKg2BoohqNIkROmwgPWokNZdpHznyU=
+=SUm6
+-----END PGP SIGNATURE-----
