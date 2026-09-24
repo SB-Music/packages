@@ -1,17 +1,17 @@
 Package: sb-music-desktop
 Architecture: amd64
-Version: 0.3.0
+Version: 2.5.0
 Priority: optional
 Section: sound
 Maintainer: Sacha <sacha@sb-music.com>
-Installed-Size: 1436
+Installed-Size: 1448
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libglib2.0-0, libjansson4, curl, hicolor-icon-theme, desktop-file-utils, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-libav
-Filename: pool/main/s/sb-music-desktop/sb-music-desktop_0.3.0_amd64.deb
-Size: 442106
-MD5sum: 54e7856a56104d598131cc8487488048
-SHA1: 06df8aabed0002202eecdd48b7bc12ce00e9be19
-SHA256: 714f11759d5fb3ac2a42fa62b964bf1104d5e6f53909c3c7e87d01024855f263
-SHA512: 9e3cf477315ddf22f7e5affb78472d8a065905cceb881ec33479263b20246aba8f2a4926c75687deb7729b23f237781d3ba0f4d603cd0e9951804ac44829833c
+Filename: pool/main/s/sb-music-desktop/sb-music-desktop_2.5.0_amd64.deb
+Size: 449186
+MD5sum: db89e83fe108f6d78a7f85d95d06122b
+SHA1: 34e6b82fa9d2c6b0f429025b505e9bec7ae7cd6a
+SHA256: cb94c27e2fefb50325caa91505252b56f59b3cf641d6fa034928f634b30fc133
+SHA512: 296818fa5f5f49b1d19582e1aa3f74cbb2dd0b4a2a20c814bb5e4b310ecff84d0db2b87cd3a3e3d7bee96e7f0174d3df6055743680f6000601fa766f698085a6
 Homepage: https://sb-music.com
 Description: Client desktop natif pour SB'Music
  Client WebKitGTK avec Discord Rich Presence, liens sb-music et intégration au bureau Linux.
